@@ -2,33 +2,33 @@
 
 ### 1.[功能描述]
 
-1.1. 打包整理了在Python技术栈学习中的练习项目
+1. 打包整理了在Python技术栈学习中的练习项目
 
 
 ### 2.[结构简介]
 
-2.1. task_class
+1. task_class
    > 终端界面的选课系统
-2.2. task_douban
+2. task_douban
    > 豆瓣电影信息爬虫
-2.3. task_fang58
+3. task_fang58
    > 二手房信息分布式爬虫
-2.4. task_ftp
+4. task_ftp
    > 终端界面的ftp文件系统
-2.5. task_mysql
+5. task_mysql
    > pymysql指令练习
-2.6. task_sort
+6. task_sort
    > 算法基础
 
 ### 3.[附：Django项目]
 
-3.1. crmproject-web
+1. crmproject-web
    > CRM客户关系管理系统(https://github.com/xiangjianan/crmproject-web) 
-3.2. book
+2. book
    > 图书管理系统(https://github.com/xiangjianan/book) 
-3.3. blog
+3. blog
    > 博客系统(https://github.com/xiangjianan/blog) 
-3.4. douyin
+4. douyin
    > 抖音视频爬虫(https://github.com/xiangjianan/douyin) 
 
 
