@@ -23,13 +23,13 @@
 ### 3.[附：Django项目]
 
 1. crmproject-web
-   > CRM客户关系管理系统(https://github.com/xiangjianan/crmproject-web) 
+   > [CRM客户关系管理系统](https://github.com/xiangjianan/crmproject-web) 
 2. book
-   > 图书管理系统(https://github.com/xiangjianan/book) 
+   > [图书管理系统](https://github.com/xiangjianan/book) 
 3. blog
-   > 博客系统(https://github.com/xiangjianan/blog) 
+   > [博客系统](https://github.com/xiangjianan/blog) 
 4. douyin
-   > 抖音视频爬虫(https://github.com/xiangjianan/douyin) 
+   > [抖音视频爬虫](https://github.com/xiangjianan/douyin) 
 
 
 
